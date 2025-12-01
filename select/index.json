@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "春の恋人",
+  "base_artist": "≠ME",
+  "createdAt": "2025-12-01T12:45:31.225762Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "春の恋人",
+      "artist": "≠ME",
+      "has_synced": false,
+      "path": "select/pl_01_春の恋人_≠ME.txt"
+    }
+  ]
+}
